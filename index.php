@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ru">
+<link rel="icon" href="/assets/images/favicon-32x32.png" type="image/x-icon">
 <head>
     <meta charset="UTF-8">
     <title>Главная</title>
